@@ -1,3 +1,3 @@
 # Relevel-Assignments
 
-All assignments for releve backend course goes here
+All assignments for Relevel Backend course goes here
